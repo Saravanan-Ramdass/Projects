@@ -1,2 +1,2 @@
 Hi, testing file version 2
-change master
+change master test
